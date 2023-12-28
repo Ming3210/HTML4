@@ -1,0 +1,15 @@
+.ul{
+    display: inline-flex;
+}
+.form{
+    border: 1px solid black;
+}
+.margen-lagre{
+    margin-left: 90px;
+}
+.up{
+    margin-top: -50px;
+}
+.margen-small{
+    margin-left: 37px;
+}

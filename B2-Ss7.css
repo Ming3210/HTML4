@@ -1,0 +1,9 @@
+.insta{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+}
